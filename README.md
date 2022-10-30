@@ -1,2 +1,2 @@
 # quinielaUMG
-# Proyecto ACS
+# Proyecto ACS 2022
